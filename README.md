@@ -1,2 +1,5 @@
 # Calculator_Fast-API
-Welcome to the FastAPI Calculator API, a lightweight web service for performing basic arithmetic operations. This API is built with FastAPI, a modern, fast (high-performance), web framework for building APIs with Python 
+    This is a FastAPI application that provides basic arithmetic operations such as addition,
+    subtraction, division, and multiplication.
+    :return: The code is returning a FastAPI application instance called "cal".
+    
